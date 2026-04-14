@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+testing_bot_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# IDE - PyCharm
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# Environment variables
+.env
+.env.local
+
+# Generated data files
+users_data.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
