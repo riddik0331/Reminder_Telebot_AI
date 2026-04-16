@@ -1,0 +1,1440 @@
+2026-04-02 19:50:02,504 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-02 19:50:02,535 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-02 19:50:02,535 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-02 19:50:02,535 - aiogram.dispatcher - INFO - Start polling
+2026-04-02 19:50:02,809 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-02 19:50:33,396 - aiogram.event - INFO - Update id=127961716 is handled. Duration 439 ms by bot id=7603285135
+2026-04-13 07:15:41,818 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:15:41,820 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:15:41,820 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:15:41,820 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:15:42,256 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:15:46,964 - aiogram.event - INFO - Update id=127961729 is handled. Duration 458 ms by bot id=7603285135
+2026-04-13 07:15:58,047 - aiogram.event - INFO - Update id=127961730 is handled. Duration 226 ms by bot id=7603285135
+2026-04-13 07:32:14,291 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:32:14,294 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:32:14,294 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:32:14,295 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:32:14,295 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:32:14,295 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:32:14,295 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:32:14,297 - aiogram.dispatcher - INFO - Polling stopped
+2026-04-13 07:32:35,791 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:32:35,792 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:32:35,792 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:32:35,793 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:32:35,793 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:32:35,793 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:32:35,794 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:32:36,036 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:33:34,148 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:33:34,150 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:33:34,150 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:33:34,151 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:33:34,151 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:33:34,151 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:33:34,152 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:33:34,381 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:33:34,900 - aiogram.event - INFO - Update id=127961735 is handled. Duration 416 ms by bot id=7603285135
+2026-04-13 07:35:42,835 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:35:42,836 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:35:42,837 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:35:42,838 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:35:42,838 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:35:42,838 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:35:42,838 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:35:43,072 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:35:43,241 - aiogram.event - INFO - Update id=127961736 is not handled. Duration 73 ms by bot id=7603285135
+2026-04-13 07:35:43,608 - aiogram.event - INFO - Update id=127961737 is handled. Duration 438 ms by bot id=7603285135
+2026-04-13 07:35:54,406 - aiogram.event - INFO - Update id=127961738 is handled. Duration 203 ms by bot id=7603285135
+2026-04-13 07:36:03,306 - aiogram.event - INFO - Update id=127961739 is handled. Duration 111 ms by bot id=7603285135
+2026-04-13 07:36:59,945 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:36:59,947 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:36:59,947 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:36:59,948 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:36:59,948 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:36:59,948 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:36:59,948 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:37:00,176 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:37:00,332 - aiogram.event - INFO - Update id=127961740 is not handled. Duration 67 ms by bot id=7603285135
+2026-04-13 07:37:01,145 - aiogram.event - INFO - Update id=127961741 is handled. Duration 878 ms by bot id=7603285135
+2026-04-13 07:40:58,417 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:40:58,419 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:40:58,419 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:40:58,420 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:40:58,420 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:40:58,420 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:40:58,421 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:40:58,667 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:40:59,182 - aiogram.event - INFO - Update id=127961745 is handled. Duration 350 ms by bot id=7603285135
+2026-04-13 07:40:59,197 - aiogram.event - INFO - Update id=127961742 is handled. Duration 445 ms by bot id=7603285135
+2026-04-13 07:40:59,237 - aiogram.event - INFO - Update id=127961743 is handled. Duration 408 ms by bot id=7603285135
+2026-04-13 07:40:59,249 - aiogram.event - INFO - Update id=127961744 is handled. Duration 419 ms by bot id=7603285135
+2026-04-13 07:41:12,942 - aiogram.event - INFO - Update id=127961746 is not handled. Duration 7 ms by bot id=7603285135
+2026-04-13 07:41:23,361 - aiogram.event - INFO - Update id=127961747 is handled. Duration 359 ms by bot id=7603285135
+2026-04-13 07:41:30,424 - aiogram.event - INFO - Update id=127961748 is not handled. Duration 5 ms by bot id=7603285135
+2026-04-13 07:41:47,782 - aiogram.event - INFO - Update id=127961749 is not handled. Duration 5 ms by bot id=7603285135
+2026-04-13 07:41:54,160 - aiogram.event - INFO - Update id=127961750 is handled. Duration 359 ms by bot id=7603285135
+2026-04-13 07:42:03,537 - aiogram.event - INFO - Update id=127961751 is handled. Duration 429 ms by bot id=7603285135
+2026-04-13 07:42:06,624 - aiogram.event - INFO - Update id=127961752 is handled. Duration 268 ms by bot id=7603285135
+2026-04-13 07:42:13,517 - aiogram.event - INFO - Update id=127961753 is handled. Duration 376 ms by bot id=7603285135
+2026-04-13 07:42:22,178 - aiogram.event - INFO - Update id=127961754 is handled. Duration 264 ms by bot id=7603285135
+2026-04-13 07:42:57,987 - aiogram.event - INFO - Update id=127961755 is handled. Duration 522 ms by bot id=7603285135
+2026-04-13 07:42:59,910 - aiogram.event - INFO - Update id=127961756 is handled. Duration 225 ms by bot id=7603285135
+2026-04-13 07:43:00,985 - aiogram.event - INFO - Update id=127961757 is handled. Duration 204 ms by bot id=7603285135
+2026-04-13 07:43:02,114 - aiogram.event - INFO - Update id=127961758 is handled. Duration 191 ms by bot id=7603285135
+2026-04-13 07:43:03,634 - aiogram.event - INFO - Update id=127961759 is handled. Duration 213 ms by bot id=7603285135
+2026-04-13 07:43:06,338 - aiogram.event - INFO - Update id=127961760 is handled. Duration 223 ms by bot id=7603285135
+2026-04-13 07:46:04,857 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:46:04,859 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:46:04,859 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:46:04,860 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:46:04,860 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:46:04,860 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:46:04,860 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:46:05,097 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:46:08,631 - aiogram.event - INFO - Update id=127961761 is handled. Duration 458 ms by bot id=7603285135
+2026-04-13 07:46:13,000 - aiogram.event - INFO - Update id=127961762 is handled. Duration 223 ms by bot id=7603285135
+2026-04-13 07:53:06,518 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:53:06,520 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:53:06,520 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:53:06,521 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:53:06,522 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:53:06,522 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:53:06,522 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:53:06,764 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:53:12,296 - aiogram.event - INFO - Update id=127961763 is handled. Duration 762 ms by bot id=7603285135
+2026-04-13 07:53:33,872 - aiogram.event - INFO - Update id=127961764 is not handled. Duration 6 ms by bot id=7603285135
+2026-04-13 07:53:43,783 - aiogram.event - INFO - Update id=127961765 is handled. Duration 372 ms by bot id=7603285135
+2026-04-13 07:54:04,606 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-04-13 07:54:04,606 - app.ai_helper - ERROR - Groq API error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-04-13 07:54:06,483 - aiogram.event - INFO - Update id=127961766 is handled. Duration 3383 ms by bot id=7603285135
+2026-04-13 07:54:20,570 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-04-13 07:54:20,570 - app.ai_helper - ERROR - Groq API error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-04-13 07:54:20,720 - aiogram.event - INFO - Update id=127961767 is handled. Duration 715 ms by bot id=7603285135
+2026-04-13 07:54:34,974 - aiogram.event - INFO - Update id=127961768 is handled. Duration 299 ms by bot id=7603285135
+2026-04-13 07:55:49,725 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:55:49,727 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:55:49,727 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:55:49,728 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:55:49,728 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:55:49,728 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:55:49,729 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:55:49,983 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:56:00,914 - aiogram.event - INFO - Update id=127961769 is handled. Duration 363 ms by bot id=7603285135
+2026-04-13 07:56:12,805 - aiogram.event - INFO - Update id=127961770 is not handled. Duration 5 ms by bot id=7603285135
+2026-04-13 07:56:22,559 - aiogram.event - INFO - Update id=127961771 is not handled. Duration 4 ms by bot id=7603285135
+2026-04-13 07:57:36,407 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:57:36,409 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:57:36,409 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:57:36,410 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:57:36,410 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:57:36,410 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:57:36,410 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:57:36,641 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:58:01,364 - aiogram.event - INFO - Update id=127961772 is handled. Duration 443 ms by bot id=7603285135
+2026-04-13 07:58:08,597 - aiogram.event - INFO - Update id=127961773 is not handled. Duration 5 ms by bot id=7603285135
+2026-04-13 07:59:13,089 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 07:59:13,092 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:59:13,092 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 07:59:13,093 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 07:59:13,093 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 07:59:13,093 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 07:59:13,093 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 07:59:13,369 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 07:59:13,773 - aiogram.event - INFO - Update id=127961774 is handled. Duration 291 ms by bot id=7603285135
+2026-04-13 07:59:17,606 - aiogram.event - INFO - Update id=127961775 is handled. Duration 232 ms by bot id=7603285135
+2026-04-13 07:59:27,118 - aiogram.event - INFO - Update id=127961776 is handled. Duration 5 ms by bot id=7603285135
+2026-04-13 07:59:35,439 - aiogram.event - INFO - Update id=127961777 is handled. Duration 4 ms by bot id=7603285135
+2026-04-13 07:59:40,889 - aiogram.event - INFO - Update id=127961778 is handled. Duration 288 ms by bot id=7603285135
+2026-04-13 07:59:45,354 - aiogram.event - INFO - Update id=127961779 is handled. Duration 4 ms by bot id=7603285135
+2026-04-13 07:59:49,416 - aiogram.event - INFO - Update id=127961780 is handled. Duration 4 ms by bot id=7603285135
+2026-04-13 07:59:52,445 - aiogram.event - INFO - Update id=127961781 is handled. Duration 175 ms by bot id=7603285135
+2026-04-13 07:59:56,484 - aiogram.event - INFO - Update id=127961782 is handled. Duration 4 ms by bot id=7603285135
+2026-04-13 08:00:27,971 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 08:00:27,973 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 08:00:27,973 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 08:00:27,974 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 08:00:27,974 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 08:00:27,974 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 08:00:27,975 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 08:00:28,253 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 08:00:31,470 - aiogram.event - INFO - Update id=127961783 is handled. Duration 279 ms by bot id=7603285135
+2026-04-13 08:00:36,992 - aiogram.event - INFO - Update id=127961784 is handled. Duration 5 ms by bot id=7603285135
+2026-04-13 08:00:46,139 - aiogram.event - INFO - Update id=127961785 is handled. Duration 4 ms by bot id=7603285135
+2026-04-13 08:01:14,070 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 08:01:14,073 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 08:01:14,073 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 08:01:14,075 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 08:01:14,075 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 08:01:14,075 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 08:01:14,076 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 08:01:14,443 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 08:01:14,800 - aiogram.event - INFO - Update id=127961786 is handled. Duration 256 ms by bot id=7603285135
+2026-04-13 08:01:21,625 - aiogram.event - INFO - Update id=127961787 is handled. Duration 6 ms by bot id=7603285135
+2026-04-13 08:02:04,764 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-13 08:02:04,766 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 08:02:04,766 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-13 08:02:04,768 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-13 08:02:04,768 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-13 08:02:04,768 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-13 08:02:04,768 - aiogram.dispatcher - INFO - Start polling
+2026-04-13 08:02:05,018 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-13 08:02:06,408 - aiogram.event - INFO - Update id=127961788 is handled. Duration 244 ms by bot id=7603285135
+2026-04-13 08:02:10,426 - aiogram.event - INFO - Update id=127961789 is handled. Duration 162 ms by bot id=7603285135
+2026-04-13 08:02:22,746 - aiogram.event - INFO - Update id=127961790 is handled. Duration 103 ms by bot id=7603285135
+2026-04-13 08:02:29,652 - aiogram.event - INFO - Update id=127961791 is handled. Duration 100 ms by bot id=7603285135
+2026-04-13 08:02:51,966 - aiogram.event - INFO - Update id=127961792 is handled. Duration 380 ms by bot id=7603285135
+2026-04-13 08:02:54,208 - aiogram.event - INFO - Update id=127961793 is handled. Duration 245 ms by bot id=7603285135
+2026-04-13 08:03:30,911 - aiogram.event - INFO - Update id=127961794 is handled. Duration 234 ms by bot id=7603285135
+2026-04-13 08:03:42,723 - aiogram.event - INFO - Update id=127961795 is handled. Duration 107 ms by bot id=7603285135
+2026-04-13 08:04:21,346 - aiogram.event - INFO - Update id=127961796 is handled. Duration 251 ms by bot id=7603285135
+2026-04-13 08:04:44,905 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-13 08:04:45,167 - aiogram.event - INFO - Update id=127961797 is handled. Duration 1394 ms by bot id=7603285135
+2026-04-13 08:05:07,912 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-13 08:05:08,299 - aiogram.event - INFO - Update id=127961798 is handled. Duration 907 ms by bot id=7603285135
+2026-04-13 08:05:30,621 - aiogram.event - INFO - Update id=127961799 is handled. Duration 382 ms by bot id=7603285135
+2026-04-13 08:05:46,959 - aiogram.event - INFO - Update id=127961800 is handled. Duration 230 ms by bot id=7603285135
+2026-04-13 08:05:51,845 - aiogram.event - INFO - Update id=127961801 is handled. Duration 87 ms by bot id=7603285135
+2026-04-13 08:05:56,535 - aiogram.event - INFO - Update id=127961802 is handled. Duration 202 ms by bot id=7603285135
+2026-04-13 08:06:01,926 - aiogram.event - INFO - Update id=127961803 is handled. Duration 142 ms by bot id=7603285135
+2026-04-13 08:06:05,983 - aiogram.event - INFO - Update id=127961804 is handled. Duration 103 ms by bot id=7603285135
+2026-04-13 08:06:10,699 - aiogram.event - INFO - Update id=127961805 is handled. Duration 166 ms by bot id=7603285135
+2026-04-13 08:06:32,618 - aiogram.event - INFO - Update id=127961806 is handled. Duration 306 ms by bot id=7603285135
+2026-04-14 08:49:05,452 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 08:49:05,457 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 08:49:05,457 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 08:49:05,459 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 08:49:05,459 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 08:49:05,459 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 08:49:05,459 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 08:49:14,090 - aiogram.dispatcher - INFO - Polling stopped
+2026-04-14 08:49:59,447 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 08:49:59,475 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 08:49:59,476 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 08:49:59,476 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 08:49:59,477 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 08:49:59,477 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 08:49:59,477 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 08:49:59,731 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 08:50:18,258 - aiogram.event - INFO - Update id=127961807 is handled. Duration 470 ms by bot id=7603285135
+2026-04-14 08:50:23,827 - aiogram.event - INFO - Update id=127961808 is handled. Duration 201 ms by bot id=7603285135
+2026-04-14 08:51:47,397 - aiogram.event - INFO - Update id=127961809 is handled. Duration 239 ms by bot id=7603285135
+2026-04-14 08:52:07,672 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 08:52:07,948 - aiogram.event - INFO - Update id=127961810 is handled. Duration 1898 ms by bot id=7603285135
+2026-04-14 08:52:29,190 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 08:52:29,484 - aiogram.event - INFO - Update id=127961811 is handled. Duration 1011 ms by bot id=7603285135
+2026-04-14 08:56:15,468 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-14 08:56:15,468 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7603285135)
+2026-04-14 08:56:37,493 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-04-14 08:56:37,494 - aiogram.dispatcher - WARNING - Sleep for 1.395503 seconds and try again... (tryings = 1, bot id = 7603285135)
+2026-04-14 08:56:58,173 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-04-14 08:56:58,174 - aiogram.dispatcher - WARNING - Sleep for 1.829506 seconds and try again... (tryings = 2, bot id = 7603285135)
+2026-04-14 08:57:00,213 - aiogram.dispatcher - INFO - Connection established (tryings = 3, bot id = 7603285135)
+2026-04-14 08:57:00,497 - aiogram.event - INFO - Update id=127961812 is handled. Duration 283 ms by bot id=7603285135
+2026-04-14 08:57:04,122 - aiogram.event - INFO - Update id=127961813 is handled. Duration 188 ms by bot id=7603285135
+2026-04-14 08:57:12,167 - aiogram.event - INFO - Update id=127961814 is handled. Duration 175 ms by bot id=7603285135
+2026-04-14 09:00:59,207 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 09:00:59,209 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:00:59,209 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:00:59,210 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 09:00:59,210 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 09:00:59,210 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 09:00:59,211 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 09:00:59,452 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 09:01:12,969 - aiogram.event - INFO - Update id=127961815 is handled. Duration 392 ms by bot id=7603285135
+2026-04-14 09:01:18,377 - aiogram.event - INFO - Update id=127961816 is handled. Duration 211 ms by bot id=7603285135
+2026-04-14 09:01:37,170 - aiogram.event - INFO - Update id=127961817 is handled. Duration 529 ms by bot id=7603285135
+2026-04-14 09:01:44,289 - aiogram.event - INFO - Update id=127961818 is handled. Duration 200 ms by bot id=7603285135
+2026-04-14 09:02:39,288 - aiogram.event - INFO - Update id=127961819 is handled. Duration 251 ms by bot id=7603285135
+2026-04-14 09:03:02,940 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 09:03:03,212 - aiogram.event - INFO - Update id=127961820 is handled. Duration 1475 ms by bot id=7603285135
+2026-04-14 09:03:15,677 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 09:03:15,809 - aiogram.event - INFO - Update id=127961821 is handled. Duration 732 ms by bot id=7603285135
+2026-04-14 09:03:28,891 - aiogram.event - INFO - Update id=127961822 is handled. Duration 179 ms by bot id=7603285135
+2026-04-14 09:07:04,862 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 09:07:04,863 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:07:04,864 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:07:04,865 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 09:07:04,865 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 09:07:04,865 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 09:07:04,865 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 09:07:05,134 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 09:07:53,620 - aiogram.event - INFO - Update id=127961823 is handled. Duration 358 ms by bot id=7603285135
+2026-04-14 09:07:56,595 - aiogram.event - INFO - Update id=127961824 is handled. Duration 209 ms by bot id=7603285135
+2026-04-14 09:08:02,168 - aiogram.event - INFO - Update id=127961825 is handled. Duration 224 ms by bot id=7603285135
+2026-04-14 09:08:17,503 - aiogram.event - INFO - Update id=127961826 is handled. Duration 331 ms by bot id=7603285135
+2026-04-14 09:08:23,058 - aiogram.event - INFO - Update id=127961827 is handled. Duration 97 ms by bot id=7603285135
+2026-04-14 09:08:28,938 - aiogram.event - INFO - Update id=127961828 is handled. Duration 177 ms by bot id=7603285135
+2026-04-14 09:08:33,810 - aiogram.event - INFO - Update id=127961829 is handled. Duration 107 ms by bot id=7603285135
+2026-04-14 09:08:38,663 - aiogram.event - INFO - Update id=127961830 is handled. Duration 104 ms by bot id=7603285135
+2026-04-14 09:08:47,380 - aiogram.event - INFO - Update id=127961831 is handled. Duration 119 ms by bot id=7603285135
+2026-04-14 09:09:43,121 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 09:09:43,123 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:09:43,123 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:09:43,124 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 09:09:43,124 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 09:09:43,124 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 09:09:43,124 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 09:09:43,359 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 09:09:48,643 - aiogram.event - INFO - Update id=127961832 is handled. Duration 294 ms by bot id=7603285135
+2026-04-14 09:10:04,162 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 09:10:04,466 - aiogram.event - INFO - Update id=127961833 is handled. Duration 1375 ms by bot id=7603285135
+2026-04-14 09:10:08,439 - aiogram.event - INFO - Update id=127961834 is handled. Duration 202 ms by bot id=7603285135
+2026-04-14 09:10:13,167 - aiogram.event - INFO - Update id=127961835 is handled. Duration 240 ms by bot id=7603285135
+2026-04-14 09:12:20,966 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 09:12:20,968 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:12:20,968 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:12:20,969 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 09:12:20,969 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 09:12:20,969 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 09:12:20,970 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 09:12:21,208 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 09:14:48,223 - aiogram.event - INFO - Update id=127961836 is handled. Duration 469 ms by bot id=7603285135
+2026-04-14 09:14:53,573 - aiogram.event - INFO - Update id=127961837 is handled. Duration 232 ms by bot id=7603285135
+2026-04-14 09:18:23,350 - aiogram.event - INFO - Update id=127961838 is handled. Duration 348 ms by bot id=7603285135
+2026-04-14 09:18:28,771 - aiogram.event - INFO - Update id=127961839 is handled. Duration 207 ms by bot id=7603285135
+2026-04-14 09:18:36,782 - aiogram.event - INFO - Update id=127961840 is handled. Duration 239 ms by bot id=7603285135
+2026-04-14 09:19:06,654 - aiogram.event - INFO - Update id=127961841 is handled. Duration 444 ms by bot id=7603285135
+2026-04-14 09:19:47,526 - aiogram.event - INFO - Update id=127961842 is handled. Duration 235 ms by bot id=7603285135
+2026-04-14 09:22:59,360 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 09:22:59,362 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:22:59,362 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:22:59,363 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 09:22:59,363 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 09:22:59,363 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 09:22:59,364 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 09:22:59,619 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 09:23:32,801 - aiogram.event - INFO - Update id=127961843 is handled. Duration 331 ms by bot id=7603285135
+2026-04-14 09:45:44,958 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 09:45:44,997 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:45:44,998 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 09:45:44,999 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 09:45:44,999 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 09:45:44,999 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 09:45:45,000 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 09:45:45,328 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 10:54:34,276 - aiogram.event - INFO - Update id=127961844 is handled. Duration 441 ms by bot id=7603285135
+2026-04-14 10:54:39,953 - aiogram.event - INFO - Update id=127961845 is handled. Duration 202 ms by bot id=7603285135
+2026-04-14 10:54:46,634 - aiogram.event - INFO - Update id=127961846 is handled. Duration 285 ms by bot id=7603285135
+2026-04-14 10:56:40,513 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 10:56:40,516 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 10:56:40,516 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 10:56:40,518 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 10:56:40,518 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 10:56:40,518 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 10:56:40,518 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 10:56:40,759 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 10:57:13,522 - aiogram.event - INFO - Update id=127961847 is handled. Duration 314 ms by bot id=7603285135
+2026-04-14 10:57:19,024 - aiogram.event - INFO - Update id=127961848 is handled. Duration 97 ms by bot id=7603285135
+2026-04-14 10:57:23,149 - aiogram.event - INFO - Update id=127961849 is handled. Duration 89 ms by bot id=7603285135
+2026-04-14 10:57:28,133 - aiogram.event - INFO - Update id=127961850 is not handled. Duration 2 ms by bot id=7603285135
+2026-04-14 10:57:36,563 - aiogram.event - INFO - Update id=127961851 is handled. Duration 111 ms by bot id=7603285135
+2026-04-14 10:57:38,883 - aiogram.event - INFO - Update id=127961852 is handled. Duration 103 ms by bot id=7603285135
+2026-04-14 10:59:58,342 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 10:59:58,344 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 10:59:58,344 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 10:59:58,345 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 10:59:58,345 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 10:59:58,345 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 10:59:58,346 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 10:59:58,659 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 11:00:01,150 - aiogram.event - INFO - Update id=127961853 is handled. Duration 309 ms by bot id=7603285135
+2026-04-14 11:00:18,265 - aiogram.event - INFO - Update id=127961854 is handled. Duration 1240 ms by bot id=7603285135
+2026-04-14 11:00:20,530 - aiogram.event - INFO - Update id=127961855 is handled. Duration 84 ms by bot id=7603285135
+2026-04-14 11:00:23,780 - aiogram.event - INFO - Update id=127961856 is handled. Duration 119 ms by bot id=7603285135
+2026-04-14 11:00:25,783 - aiogram.event - INFO - Update id=127961857 is handled. Duration 130 ms by bot id=7603285135
+2026-04-14 11:02:32,004 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 11:02:32,006 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:02:32,006 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:02:32,007 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 11:02:32,007 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 11:02:32,007 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 11:02:32,008 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 11:02:32,310 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 11:03:15,162 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 11:03:15,508 - aiogram.event - INFO - Update id=127961858 is handled. Duration 2551 ms by bot id=7603285135
+2026-04-14 11:03:43,360 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 11:03:43,674 - aiogram.event - INFO - Update id=127961859 is handled. Duration 1856 ms by bot id=7603285135
+2026-04-14 11:05:54,157 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 11:05:54,159 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:05:54,159 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:05:54,160 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 11:05:54,160 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 11:05:54,160 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 11:05:54,161 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 11:05:54,398 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 11:06:26,099 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 11:06:26,408 - aiogram.event - INFO - Update id=127961860 is handled. Duration 1604 ms by bot id=7603285135
+2026-04-14 11:06:37,043 - aiogram.event - INFO - Update id=127961861 is handled. Duration 98 ms by bot id=7603285135
+2026-04-14 11:07:35,459 - aiogram.event - INFO - Update id=127961862 is handled. Duration 460 ms by bot id=7603285135
+2026-04-14 11:07:44,109 - aiogram.event - INFO - Update id=127961863 is handled. Duration 504 ms by bot id=7603285135
+2026-04-14 11:07:47,421 - aiogram.event - INFO - Update id=127961864 is handled. Duration 178 ms by bot id=7603285135
+2026-04-14 11:08:55,587 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 11:08:55,589 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:08:55,589 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:08:55,590 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 11:08:55,590 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 11:08:55,590 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 11:08:55,591 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 11:08:55,869 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 11:10:14,413 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 11:10:14,693 - aiogram.event - INFO - Update id=127961865 is handled. Duration 1676 ms by bot id=7603285135
+2026-04-14 11:21:09,162 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 11:21:09,164 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:21:09,164 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:21:09,166 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 11:21:09,166 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 11:21:09,166 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 11:21:09,167 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 11:21:09,394 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 11:21:09,921 - aiogram.event - INFO - Update id=127961866 is handled. Duration 437 ms by bot id=7603285135
+2026-04-14 11:22:19,904 - aiogram.event - INFO - Update id=127961867 is handled. Duration 550 ms by bot id=7603285135
+2026-04-14 11:22:27,317 - aiogram.event - INFO - Update id=127961868 is handled. Duration 210 ms by bot id=7603285135
+2026-04-14 11:22:32,673 - aiogram.event - INFO - Update id=127961869 is handled. Duration 125 ms by bot id=7603285135
+2026-04-14 11:22:41,934 - aiogram.event - INFO - Update id=127961870 is handled. Duration 114 ms by bot id=7603285135
+2026-04-14 11:22:53,806 - aiogram.event - INFO - Update id=127961871 is handled. Duration 133 ms by bot id=7603285135
+2026-04-14 11:23:00,185 - aiogram.event - INFO - Update id=127961872 is handled. Duration 246 ms by bot id=7603285135
+2026-04-14 11:25:55,826 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 11:25:55,828 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:25:55,828 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 11:25:55,829 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 11:25:55,829 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 11:25:55,829 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 11:25:55,829 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 11:25:56,222 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 11:25:58,711 - aiogram.event - INFO - Update id=127961873 is handled. Duration 266 ms by bot id=7603285135
+2026-04-14 12:57:07,158 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 12:57:07,160 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 12:57:07,160 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 12:57:07,162 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 12:57:07,162 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 12:57:07,162 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 12:57:07,162 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 12:57:07,482 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 12:57:54,359 - aiogram.event - INFO - Update id=127961874 is handled. Duration 361 ms by bot id=7603285135
+2026-04-14 12:58:03,022 - aiogram.event - INFO - Update id=127961875 is handled. Duration 191 ms by bot id=7603285135
+2026-04-14 12:58:05,520 - aiogram.event - INFO - Update id=127961876 is handled. Duration 90 ms by bot id=7603285135
+2026-04-14 12:58:07,818 - aiogram.event - INFO - Update id=127961877 is handled. Duration 116 ms by bot id=7603285135
+2026-04-14 13:02:25,944 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 13:02:25,946 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:02:25,947 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:02:25,948 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 13:02:25,948 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 13:02:25,948 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 13:02:25,949 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 13:02:26,212 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 13:02:31,384 - aiogram.event - INFO - Update id=127961878 is handled. Duration 304 ms by bot id=7603285135
+2026-04-14 13:02:35,547 - aiogram.event - INFO - Update id=127961879 is handled. Duration 193 ms by bot id=7603285135
+2026-04-14 13:02:37,152 - aiogram.event - INFO - Update id=127961880 is handled. Duration 188 ms by bot id=7603285135
+2026-04-14 13:02:38,280 - aiogram.event - INFO - Update id=127961881 is handled. Duration 193 ms by bot id=7603285135
+2026-04-14 13:02:39,946 - aiogram.event - INFO - Update id=127961882 is handled. Duration 221 ms by bot id=7603285135
+2026-04-14 13:02:42,275 - aiogram.event - INFO - Update id=127961883 is handled. Duration 355 ms by bot id=7603285135
+2026-04-14 13:24:34,292 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 13:24:34,296 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:24:34,297 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:24:34,304 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 13:24:34,304 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 13:24:34,304 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 13:24:34,305 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 13:24:34,569 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 13:25:00,799 - aiogram.event - INFO - Update id=127961884 is handled. Duration 308 ms by bot id=7603285135
+2026-04-14 13:25:05,855 - aiogram.event - INFO - Update id=127961885 is handled. Duration 106 ms by bot id=7603285135
+2026-04-14 13:25:28,065 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:25:28,325 - aiogram.event - INFO - Update id=127961886 is handled. Duration 1812 ms by bot id=7603285135
+2026-04-14 13:25:37,515 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:25:37,759 - aiogram.event - INFO - Update id=127961887 is handled. Duration 828 ms by bot id=7603285135
+2026-04-14 13:25:59,479 - aiogram.event - INFO - Update id=127961888 is handled. Duration 527 ms by bot id=7603285135
+2026-04-14 13:26:25,239 - aiogram.event - INFO - Update id=127961889 is handled. Duration 375 ms by bot id=7603285135
+2026-04-14 13:26:33,122 - aiogram.event - INFO - Update id=127961890 is handled. Duration 111 ms by bot id=7603285135
+2026-04-14 13:26:37,024 - aiogram.event - INFO - Update id=127961891 is handled. Duration 98 ms by bot id=7603285135
+2026-04-14 13:26:39,996 - aiogram.event - INFO - Update id=127961892 is handled. Duration 169 ms by bot id=7603285135
+2026-04-14 13:27:14,569 - aiogram.event - INFO - Update id=127961893 is handled. Duration 402 ms by bot id=7603285135
+2026-04-14 13:30:05,856 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 13:30:05,859 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:30:05,859 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:30:05,861 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 13:30:05,861 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 13:30:05,861 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 13:30:05,861 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 13:30:06,114 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 13:31:25,231 - aiogram.event - INFO - Update id=127961894 is handled. Duration 350 ms by bot id=7603285135
+2026-04-14 13:31:33,446 - aiogram.event - INFO - Update id=127961895 is handled. Duration 105 ms by bot id=7603285135
+2026-04-14 13:33:13,378 - aiogram.event - INFO - Update id=127961896 is handled. Duration 470 ms by bot id=7603285135
+2026-04-14 13:33:17,035 - aiogram.event - INFO - Update id=127961897 is handled. Duration 204 ms by bot id=7603285135
+2026-04-14 13:33:25,138 - aiogram.event - INFO - Update id=127961898 is handled. Duration 117 ms by bot id=7603285135
+2026-04-14 13:33:30,426 - aiogram.event - INFO - Update id=127961899 is handled. Duration 112 ms by bot id=7603285135
+2026-04-14 13:33:37,898 - aiogram.event - INFO - Update id=127961900 is handled. Duration 105 ms by bot id=7603285135
+2026-04-14 13:33:44,607 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:33:45,210 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:33:45,633 - aiogram.event - INFO - Update id=127961901 is handled. Duration 2363 ms by bot id=7603285135
+2026-04-14 13:33:56,067 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:33:56,270 - aiogram.event - INFO - Update id=127961902 is handled. Duration 915 ms by bot id=7603285135
+2026-04-14 13:55:43,319 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 13:55:43,321 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:55:43,321 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:55:43,322 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 13:55:43,322 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 13:55:43,322 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 13:55:43,322 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 13:55:43,645 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 13:55:44,253 - aiogram.event - INFO - Update id=127961905 is handled. Duration 447 ms by bot id=7603285135
+2026-04-14 13:55:44,297 - aiogram.event - INFO - Update id=127961904 is handled. Duration 556 ms by bot id=7603285135
+2026-04-14 13:55:58,961 - aiogram.event - INFO - Update id=127961906 is handled. Duration 106 ms by bot id=7603285135
+2026-04-14 13:56:05,655 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:56:06,368 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:56:06,481 - aiogram.event - INFO - Update id=127961907 is handled. Duration 2421 ms by bot id=7603285135
+2026-04-14 13:56:17,599 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:56:17,801 - aiogram.event - INFO - Update id=127961908 is handled. Duration 751 ms by bot id=7603285135
+2026-04-14 13:56:24,538 - aiogram.event - INFO - Update id=127961909 is handled. Duration 224 ms by bot id=7603285135
+2026-04-14 13:56:37,276 - aiogram.event - INFO - Update id=127961910 is handled. Duration 119 ms by bot id=7603285135
+2026-04-14 13:56:46,529 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:56:47,084 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:56:47,184 - aiogram.event - INFO - Update id=127961911 is handled. Duration 1583 ms by bot id=7603285135
+2026-04-14 13:57:01,998 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:57:02,175 - aiogram.event - INFO - Update id=127961912 is handled. Duration 1008 ms by bot id=7603285135
+2026-04-14 13:58:50,887 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 13:58:50,889 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:58:50,889 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:58:50,890 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 13:58:50,890 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 13:58:50,890 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 13:58:50,891 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 13:58:51,139 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 13:59:03,118 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 13:59:03,120 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:59:03,120 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 13:59:03,121 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 13:59:03,121 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 13:59:03,121 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 13:59:03,122 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 13:59:03,352 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 13:59:36,279 - aiogram.event - INFO - Update id=127961913 is handled. Duration 349 ms by bot id=7603285135
+2026-04-14 13:59:45,235 - aiogram.event - INFO - Update id=127961914 is handled. Duration 207 ms by bot id=7603285135
+2026-04-14 13:59:50,660 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:59:51,541 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:59:51,659 - aiogram.event - INFO - Update id=127961915 is handled. Duration 2080 ms by bot id=7603285135
+2026-04-14 13:59:59,649 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 13:59:59,865 - aiogram.event - INFO - Update id=127961916 is handled. Duration 926 ms by bot id=7603285135
+2026-04-14 14:00:41,893 - aiogram.event - INFO - Update id=127961917 is handled. Duration 595 ms by bot id=7603285135
+2026-04-14 14:00:47,789 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:00:48,469 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:00:48,585 - aiogram.event - INFO - Update id=127961918 is handled. Duration 1595 ms by bot id=7603285135
+2026-04-14 14:00:53,053 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:00:53,221 - aiogram.event - INFO - Update id=127961919 is handled. Duration 852 ms by bot id=7603285135
+2026-04-14 14:02:57,024 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:02:57,026 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:02:57,026 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:02:57,028 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:02:57,028 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:02:57,028 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:02:57,028 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:02:57,304 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:02:57,737 - aiogram.event - INFO - Update id=127961920 is handled. Duration 323 ms by bot id=7603285135
+2026-04-14 14:02:57,781 - aiogram.event - INFO - Update id=127961921 is handled. Duration 364 ms by bot id=7603285135
+2026-04-14 14:03:15,327 - aiogram.event - INFO - Update id=127961922 is handled. Duration 415 ms by bot id=7603285135
+2026-04-14 14:03:30,768 - aiogram.event - INFO - Update id=127961923 is handled. Duration 262 ms by bot id=7603285135
+2026-04-14 14:03:34,989 - aiogram.event - INFO - Update id=127961924 is handled. Duration 97 ms by bot id=7603285135
+2026-04-14 14:03:40,384 - aiogram.event - INFO - Update id=127961925 is handled. Duration 159 ms by bot id=7603285135
+2026-04-14 14:03:44,497 - aiogram.event - INFO - Update id=127961926 is handled. Duration 116 ms by bot id=7603285135
+2026-04-14 14:03:48,062 - aiogram.event - INFO - Update id=127961927 is handled. Duration 95 ms by bot id=7603285135
+2026-04-14 14:03:51,154 - aiogram.event - INFO - Update id=127961928 is handled. Duration 167 ms by bot id=7603285135
+2026-04-14 14:04:17,165 - aiogram.event - INFO - Update id=127961929 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:04:44,228 - aiogram.event - INFO - Update id=127961930 is handled. Duration 541 ms by bot id=7603285135
+2026-04-14 14:05:25,642 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:05:25,643 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:05:25,644 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:05:25,645 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:05:25,645 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:05:25,645 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:05:25,646 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:05:25,900 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:09:18,849 - aiogram.event - INFO - Update id=127961931 is handled. Duration 421 ms by bot id=7603285135
+2026-04-14 14:09:36,853 - aiogram.event - INFO - Update id=127961932 is handled. Duration 6 ms by bot id=7603285135
+2026-04-14 14:10:49,481 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:10:49,483 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:10:49,483 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:10:49,484 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:10:49,484 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:10:49,484 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:10:49,484 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:10:49,714 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:10:57,160 - aiogram.event - INFO - Update id=127961933 is handled. Duration 7 ms by bot id=7603285135
+2026-04-14 14:11:13,031 - aiogram.event - INFO - Update id=127961934 is handled. Duration 5 ms by bot id=7603285135
+2026-04-14 14:11:14,964 - aiogram.event - INFO - Update id=127961935 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:13:42,798 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:13:42,800 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:13:42,800 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:13:42,802 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:13:42,802 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:13:42,802 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:13:42,803 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:13:43,073 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:13:43,171 - aiogram.event - INFO - Update id=127961936 is handled. Duration 10 ms by bot id=7603285135
+2026-04-14 14:13:44,129 - aiogram.event - INFO - Update id=127961937 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:13:45,020 - aiogram.event - INFO - Update id=127961938 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:13:46,289 - aiogram.event - INFO - Update id=127961939 is handled. Duration 5 ms by bot id=7603285135
+2026-04-14 14:13:47,183 - aiogram.event - INFO - Update id=127961940 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:14:01,541 - aiogram.event - INFO - Update id=127961941 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:14:02,882 - aiogram.event - INFO - Update id=127961942 is handled. Duration 5 ms by bot id=7603285135
+2026-04-14 14:14:06,223 - aiogram.event - INFO - Update id=127961943 is handled. Duration 4 ms by bot id=7603285135
+2026-04-14 14:15:16,494 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:15:16,496 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:15:16,496 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:15:16,497 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:15:16,497 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:15:16,498 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:15:16,498 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:15:16,747 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:17:18,642 - aiogram.event - INFO - Update id=127961944 is handled. Duration 7 ms by bot id=7603285135
+2026-04-14 14:19:07,494 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:19:07,496 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:19:07,496 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:19:07,497 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:19:07,497 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:19:07,497 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:19:07,498 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:19:07,744 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:19:16,111 - aiogram.event - INFO - Update id=127961945 is handled. Duration 285 ms by bot id=7603285135
+2026-04-14 14:20:10,685 - aiogram.event - INFO - Update id=127961946 is handled. Duration 279 ms by bot id=7603285135
+2026-04-14 14:20:31,589 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:20:31,590 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:20:31,591 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:20:31,591 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:20:31,592 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:20:31,592 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:20:31,592 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:20:31,853 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:20:45,201 - aiogram.event - INFO - Update id=127961947 is handled. Duration 317 ms by bot id=7603285135
+2026-04-14 14:21:05,901 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:21:06,291 - aiogram.event - INFO - Update id=127961948 is handled. Duration 1417 ms by bot id=7603285135
+2026-04-14 14:21:11,523 - aiogram.event - INFO - Update id=127961949 is handled. Duration 587 ms by bot id=7603285135
+2026-04-14 14:22:28,772 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:22:28,774 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:22:28,774 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:22:28,776 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:22:28,776 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:22:28,776 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:22:28,776 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:22:29,018 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:23:14,023 - aiogram.event - INFO - Update id=127961950 is handled. Duration 684 ms by bot id=7603285135
+2026-04-14 14:23:21,769 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:23:21,976 - aiogram.event - INFO - Update id=127961951 is handled. Duration 1382 ms by bot id=7603285135
+2026-04-14 14:24:52,773 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:24:52,775 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:24:52,775 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:24:52,776 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:24:52,776 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:24:52,776 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:24:52,777 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:24:53,025 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:25:04,666 - aiogram.event - INFO - Update id=127961952 is handled. Duration 261 ms by bot id=7603285135
+2026-04-14 14:25:10,014 - app.handlers - INFO - [ADD_EVENT_TWO] user_input='“естовое событие дл€ проверки завтра'
+2026-04-14 14:25:10,014 - app.handlers - INFO - [ADD_EVENT_TWO] user_id=1438974394
+2026-04-14 14:25:11,145 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:25:11,193 - app.handlers - INFO - [SIMILAR CHECK] name='“естовое событие дл€ проверки', date='2026-04-15', similar_found=0
+2026-04-14 14:25:11,368 - aiogram.event - INFO - Update id=127961953 is handled. Duration 1355 ms by bot id=7603285135
+2026-04-14 14:30:54,394 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:30:54,396 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:30:54,396 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:30:54,397 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:30:54,397 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:30:54,397 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:30:54,398 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:30:54,657 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:30:55,023 - aiogram.event - INFO - Update id=127961954 is handled. Duration 287 ms by bot id=7603285135
+2026-04-14 14:31:00,447 - app.handlers - INFO - [ADD_EVENT_TWO] user_input='«автра'
+2026-04-14 14:31:00,447 - app.handlers - INFO - [ADD_EVENT_TWO] user_id=1438974394
+2026-04-14 14:31:01,834 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:31:02,674 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:31:02,780 - aiogram.event - INFO - Update id=127961955 is handled. Duration 2335 ms by bot id=7603285135
+2026-04-14 14:31:11,018 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 14:31:11,141 - aiogram.event - INFO - Update id=127961956 is handled. Duration 1187 ms by bot id=7603285135
+2026-04-14 14:31:18,119 - aiogram.event - INFO - Update id=127961957 is handled. Duration 82 ms by bot id=7603285135
+2026-04-14 14:33:26,088 - aiogram.event - INFO - Update id=127961958 is handled. Duration 374 ms by bot id=7603285135
+2026-04-14 14:33:37,381 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:33:37,383 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:33:37,383 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:33:37,384 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:33:37,384 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:33:37,384 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:33:37,385 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:33:37,682 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:33:42,240 - aiogram.event - INFO - Update id=127961959 is handled. Duration 292 ms by bot id=7603285135
+2026-04-14 14:33:45,757 - aiogram.event - INFO - Update id=127961960 is handled. Duration 139 ms by bot id=7603285135
+2026-04-14 14:33:51,972 - aiogram.event - INFO - Update id=127961961 is handled. Duration 214 ms by bot id=7603285135
+2026-04-14 14:33:55,633 - aiogram.event - INFO - Update id=127961962 is handled. Duration 170 ms by bot id=7603285135
+2026-04-14 14:33:59,203 - aiogram.event - INFO - Update id=127961963 is handled. Duration 103 ms by bot id=7603285135
+2026-04-14 14:34:01,119 - aiogram.event - INFO - Update id=127961964 is handled. Duration 179 ms by bot id=7603285135
+2026-04-14 14:34:05,561 - aiogram.event - INFO - Update id=127961965 is handled. Duration 117 ms by bot id=7603285135
+2026-04-14 14:34:09,222 - aiogram.event - INFO - Update id=127961966 is handled. Duration 127 ms by bot id=7603285135
+2026-04-14 14:34:12,294 - aiogram.event - INFO - Update id=127961967 is handled. Duration 155 ms by bot id=7603285135
+2026-04-14 14:34:14,553 - aiogram.event - INFO - Update id=127961968 is handled. Duration 334 ms by bot id=7603285135
+2026-04-14 14:34:26,163 - aiogram.event - INFO - Update id=127961969 is handled. Duration 80 ms by bot id=7603285135
+2026-04-14 14:34:29,835 - aiogram.event - INFO - Update id=127961970 is handled. Duration 120 ms by bot id=7603285135
+2026-04-14 14:34:31,973 - aiogram.event - INFO - Update id=127961971 is handled. Duration 238 ms by bot id=7603285135
+2026-04-14 14:34:33,893 - aiogram.event - INFO - Update id=127961972 is handled. Duration 174 ms by bot id=7603285135
+2026-04-14 14:34:41,465 - aiogram.event - INFO - Update id=127961973 is handled. Duration 119 ms by bot id=7603285135
+2026-04-14 14:34:43,745 - aiogram.event - INFO - Update id=127961974 is handled. Duration 175 ms by bot id=7603285135
+2026-04-14 14:34:45,660 - aiogram.event - INFO - Update id=127961975 is handled. Duration 109 ms by bot id=7603285135
+2026-04-14 14:34:49,139 - aiogram.event - INFO - Update id=127961976 is handled. Duration 118 ms by bot id=7603285135
+2026-04-14 14:34:57,386 - aiogram.event - INFO - Update id=127961977 is handled. Duration 173 ms by bot id=7603285135
+2026-04-14 14:35:01,046 - aiogram.event - INFO - Update id=127961978 is handled. Duration 239 ms by bot id=7603285135
+2026-04-14 14:36:24,759 - aiogram.event - INFO - Update id=127961979 is handled. Duration 319 ms by bot id=7603285135
+2026-04-14 14:40:57,327 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 14:40:57,329 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:40:57,330 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 14:40:57,331 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 14:40:57,331 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 14:40:57,331 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 14:40:57,332 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 14:40:57,575 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 14:44:08,349 - aiogram.event - INFO - Update id=127961980 is handled. Duration 438 ms by bot id=7603285135
+2026-04-14 14:44:12,436 - aiogram.event - INFO - Update id=127961981 is handled. Duration 279 ms by bot id=7603285135
+2026-04-14 15:27:49,966 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 15:27:49,968 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 15:27:49,968 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 15:27:49,969 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 15:27:49,969 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 15:27:49,969 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 15:27:49,970 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 15:27:50,219 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 15:29:51,467 - aiogram.event - INFO - Update id=127961982 is handled. Duration 311 ms by bot id=7603285135
+2026-04-14 15:29:53,265 - aiogram.event - INFO - Update id=127961983 is handled. Duration 276 ms by bot id=7603285135
+2026-04-14 15:30:02,264 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:03,155 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:03,262 - aiogram.event - INFO - Update id=127961984 is handled. Duration 2447 ms by bot id=7603285135
+2026-04-14 15:30:10,285 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:11,155 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:11,315 - aiogram.event - INFO - Update id=127961985 is handled. Duration 1743 ms by bot id=7603285135
+2026-04-14 15:30:27,747 - aiogram.event - INFO - Update id=127961986 is handled. Duration 335 ms by bot id=7603285135
+2026-04-14 15:30:32,483 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:33,347 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:33,470 - aiogram.event - INFO - Update id=127961987 is handled. Duration 1699 ms by bot id=7603285135
+2026-04-14 15:30:37,339 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:38,075 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:30:38,219 - aiogram.event - INFO - Update id=127961988 is handled. Duration 1553 ms by bot id=7603285135
+2026-04-14 15:37:05,933 - aiogram.event - INFO - Update id=127961989 is handled. Duration 400 ms by bot id=7603285135
+2026-04-14 15:51:55,297 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 15:51:55,299 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 15:51:55,300 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 15:51:55,301 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 15:51:55,301 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 15:51:55,301 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 15:51:55,302 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 15:51:55,558 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 15:51:55,953 - aiogram.event - INFO - Update id=127961990 is handled. Duration 295 ms by bot id=7603285135
+2026-04-14 15:51:55,969 - aiogram.event - INFO - Update id=127961991 is handled. Duration 307 ms by bot id=7603285135
+2026-04-14 15:52:04,174 - aiogram.event - INFO - Update id=127961992 is handled. Duration 373 ms by bot id=7603285135
+2026-04-14 15:53:51,991 - aiogram.event - INFO - Update id=127961993 is handled. Duration 280 ms by bot id=7603285135
+2026-04-14 15:54:45,132 - aiogram.event - INFO - Update id=127961994 is handled. Duration 350 ms by bot id=7603285135
+2026-04-14 15:54:48,849 - aiogram.event - INFO - Update id=127961995 is handled. Duration 139 ms by bot id=7603285135
+2026-04-14 15:54:56,345 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:54:57,339 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:54:57,455 - aiogram.event - INFO - Update id=127961996 is handled. Duration 2736 ms by bot id=7603285135
+2026-04-14 15:55:02,583 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:55:03,156 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:55:03,312 - aiogram.event - INFO - Update id=127961997 is handled. Duration 1638 ms by bot id=7603285135
+2026-04-14 15:56:28,211 - aiogram.event - INFO - Update id=127961998 is handled. Duration 291 ms by bot id=7603285135
+2026-04-14 15:56:31,544 - aiogram.event - INFO - Update id=127961999 is handled. Duration 95 ms by bot id=7603285135
+2026-04-14 15:56:37,007 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:56:37,555 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:56:37,639 - aiogram.event - INFO - Update id=127962000 is handled. Duration 1542 ms by bot id=7603285135
+2026-04-14 15:56:46,324 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:56:46,907 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 15:56:47,187 - aiogram.event - INFO - Update id=127962001 is handled. Duration 1613 ms by bot id=7603285135
+2026-04-14 16:04:10,048 - aiogram.event - INFO - Update id=127962002 is handled. Duration 345 ms by bot id=7603285135
+2026-04-14 16:16:40,498 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 16:16:40,500 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:16:40,500 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:16:40,501 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 16:16:40,501 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 16:16:40,501 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 16:16:40,501 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 16:16:40,768 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 16:17:13,610 - aiogram.event - INFO - Update id=127962003 is handled. Duration 347 ms by bot id=7603285135
+2026-04-14 16:17:17,270 - aiogram.event - INFO - Update id=127962004 is handled. Duration 181 ms by bot id=7603285135
+2026-04-14 16:17:28,055 - aiogram.event - INFO - Update id=127962005 is handled. Duration 96 ms by bot id=7603285135
+2026-04-14 16:17:36,790 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:17:36,912 - aiogram.event - INFO - Update id=127962006 is handled. Duration 1285 ms by bot id=7603285135
+2026-04-14 16:17:44,467 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:17:45,423 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:17:45,616 - aiogram.event - INFO - Update id=127962007 is handled. Duration 2006 ms by bot id=7603285135
+2026-04-14 16:17:52,787 - aiogram.event - INFO - Update id=127962008 is handled. Duration 175 ms by bot id=7603285135
+2026-04-14 16:18:02,144 - aiogram.event - INFO - Update id=127962009 is handled. Duration 89 ms by bot id=7603285135
+2026-04-14 16:18:06,887 - aiogram.event - INFO - Update id=127962010 is handled. Duration 101 ms by bot id=7603285135
+2026-04-14 16:18:13,155 - aiogram.event - INFO - Update id=127962011 is handled. Duration 194 ms by bot id=7603285135
+2026-04-14 16:20:25,944 - aiogram.event - INFO - Update id=127962012 is handled. Duration 354 ms by bot id=7603285135
+2026-04-14 16:22:31,459 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 16:22:31,461 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:22:31,461 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:22:31,462 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 16:22:31,462 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 16:22:31,462 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 16:22:31,463 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 16:22:32,751 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 16:22:49,324 - aiogram.event - INFO - Update id=127962013 is handled. Duration 365 ms by bot id=7603285135
+2026-04-14 16:22:53,382 - aiogram.event - INFO - Update id=127962014 is handled. Duration 192 ms by bot id=7603285135
+2026-04-14 16:22:55,234 - aiogram.event - INFO - Update id=127962015 is handled. Duration 168 ms by bot id=7603285135
+2026-04-14 16:23:00,014 - aiogram.event - INFO - Update id=127962016 is handled. Duration 174 ms by bot id=7603285135
+2026-04-14 16:26:04,340 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 16:26:04,342 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:26:04,342 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:26:04,343 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 16:26:04,343 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 16:26:04,343 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 16:26:04,343 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 16:26:04,672 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 16:26:05,075 - aiogram.event - INFO - Update id=127962017 is not handled. Duration 311 ms by bot id=7603285135
+2026-04-14 16:26:05,075 - aiogram.event - ERROR - Cause exception while process update id=127962017 by bot id=7603285135
+TelegramBadRequest: Telegram server says - Bad Request: message to delete not found
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\handlers.py", line 994, in show_today_events
+    await callback.message.delete()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\bot.py", line 498, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message to delete not found
+2026-04-14 16:26:05,121 - aiogram.event - INFO - Update id=127962019 is not handled. Duration 355 ms by bot id=7603285135
+2026-04-14 16:26:05,121 - aiogram.event - ERROR - Cause exception while process update id=127962019 by bot id=7603285135
+TelegramBadRequest: Telegram server says - Bad Request: message to delete not found
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\handlers.py", line 994, in show_today_events
+    await callback.message.delete()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\bot.py", line 498, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message to delete not found
+2026-04-14 16:26:05,144 - aiogram.event - INFO - Update id=127962020 is not handled. Duration 377 ms by bot id=7603285135
+2026-04-14 16:26:05,144 - aiogram.event - ERROR - Cause exception while process update id=127962020 by bot id=7603285135
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\handlers.py", line 1112, in show_all_events
+    await callback.answer()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\bot.py", line 498, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-04-14 16:26:05,259 - aiogram.event - INFO - Update id=127962018 is handled. Duration 493 ms by bot id=7603285135
+2026-04-14 16:26:05,333 - aiogram.event - INFO - Update id=127962021 is handled. Duration 566 ms by bot id=7603285135
+2026-04-14 16:26:10,801 - aiogram.event - INFO - Update id=127962022 is handled. Duration 292 ms by bot id=7603285135
+2026-04-14 16:26:19,405 - aiogram.event - INFO - Update id=127962023 is handled. Duration 240 ms by bot id=7603285135
+2026-04-14 16:26:27,657 - aiogram.event - INFO - Update id=127962024 is handled. Duration 84 ms by bot id=7603285135
+2026-04-14 16:26:39,315 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:26:39,424 - aiogram.event - INFO - Update id=127962025 is handled. Duration 1443 ms by bot id=7603285135
+2026-04-14 16:26:50,493 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:26:51,060 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:26:51,223 - aiogram.event - INFO - Update id=127962026 is handled. Duration 1375 ms by bot id=7603285135
+2026-04-14 16:26:56,682 - aiogram.event - INFO - Update id=127962027 is handled. Duration 227 ms by bot id=7603285135
+2026-04-14 16:28:03,751 - aiogram.event - INFO - Update id=127962028 is handled. Duration 202 ms by bot id=7603285135
+2026-04-14 16:28:12,970 - aiogram.event - INFO - Update id=127962029 is handled. Duration 135 ms by bot id=7603285135
+2026-04-14 16:30:14,219 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 16:30:14,221 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:30:14,221 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:30:14,222 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 16:30:14,222 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 16:30:14,222 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 16:30:14,222 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 16:30:14,452 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 16:32:00,669 - aiogram.event - INFO - Update id=127962030 is handled. Duration 527 ms by bot id=7603285135
+2026-04-14 16:32:02,973 - aiogram.event - INFO - Update id=127962031 is handled. Duration 242 ms by bot id=7603285135
+2026-04-14 16:34:37,097 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 16:34:37,099 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:34:37,099 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 16:34:37,100 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 16:34:37,100 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 16:34:37,101 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 16:34:37,101 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 16:34:37,350 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 16:37:02,683 - aiogram.event - INFO - Update id=127962032 is handled. Duration 347 ms by bot id=7603285135
+2026-04-14 16:37:06,878 - aiogram.event - INFO - Update id=127962033 is handled. Duration 124 ms by bot id=7603285135
+2026-04-14 16:37:14,329 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:37:15,073 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:37:15,164 - aiogram.event - INFO - Update id=127962034 is handled. Duration 2034 ms by bot id=7603285135
+2026-04-14 16:37:22,692 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:37:23,504 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:37:23,676 - aiogram.event - INFO - Update id=127962035 is handled. Duration 1629 ms by bot id=7603285135
+2026-04-14 16:37:27,824 - aiogram.event - INFO - Update id=127962036 is handled. Duration 80 ms by bot id=7603285135
+2026-04-14 16:37:42,766 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:37:43,349 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-14 16:37:43,638 - aiogram.event - INFO - Update id=127962037 is handled. Duration 1676 ms by bot id=7603285135
+2026-04-14 16:37:55,038 - aiogram.event - INFO - Update id=127962038 is handled. Duration 256 ms by bot id=7603285135
+2026-04-14 16:37:58,397 - aiogram.event - INFO - Update id=127962039 is handled. Duration 99 ms by bot id=7603285135
+2026-04-14 16:38:10,801 - aiogram.event - INFO - Update id=127962040 is handled. Duration 90 ms by bot id=7603285135
+2026-04-14 16:38:16,475 - aiogram.event - INFO - Update id=127962041 is handled. Duration 167 ms by bot id=7603285135
+2026-04-14 16:38:19,198 - aiogram.event - INFO - Update id=127962042 is handled. Duration 174 ms by bot id=7603285135
+2026-04-14 16:45:37,246 - aiogram.event - INFO - Update id=127962043 is handled. Duration 240 ms by bot id=7603285135
+2026-04-14 16:45:41,918 - aiogram.event - INFO - Update id=127962044 is handled. Duration 99 ms by bot id=7603285135
+2026-04-14 16:45:49,982 - aiogram.event - INFO - Update id=127962045 is handled. Duration 128 ms by bot id=7603285135
+2026-04-14 17:15:03,131 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 17:15:03,132 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:15:03,133 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:15:03,133 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 17:15:03,134 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 17:15:03,134 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 17:15:03,134 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 17:15:03,370 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 17:23:53,229 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 17:23:53,232 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:23:53,232 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:23:53,234 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 17:23:53,234 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 17:23:53,234 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 17:23:53,235 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 17:23:53,525 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 17:49:59,767 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 17:49:59,769 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:49:59,769 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:49:59,770 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 17:49:59,770 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 17:49:59,770 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 17:49:59,771 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 17:50:00,014 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 17:52:44,322 - aiogram.event - INFO - Update id=127962046 is handled. Duration 347 ms by bot id=7603285135
+2026-04-14 17:52:47,708 - aiogram.event - INFO - Update id=127962047 is handled. Duration 399 ms by bot id=7603285135
+2026-04-14 17:52:53,271 - aiogram.event - INFO - Update id=127962048 is not handled. Duration 128 ms by bot id=7603285135
+2026-04-14 17:52:53,271 - aiogram.event - ERROR - Cause exception while process update id=127962048 by bot id=7603285135
+ImportError: cannot import name 'DATABASE_PATH' from 'config' (D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\config.py)
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\handlers.py", line 353, in backup_to_drive
+    result = await backup_database_to_drive()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\google_drive_backup.py", line 85, in backup_database_to_drive
+    from config import DATABASE_PATH
+ImportError: cannot import name 'DATABASE_PATH' from 'config' (D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\config.py)
+2026-04-14 17:58:59,599 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 17:58:59,602 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:58:59,602 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 17:58:59,604 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 17:58:59,604 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 17:58:59,605 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 17:58:59,605 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 17:58:59,849 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 17:59:27,583 - app.google_drive_backup - ERROR - Failed to initialize Google Drive: No module named 'google.oauth2'
+2026-04-14 17:59:27,665 - aiogram.event - INFO - Update id=127962049 is handled. Duration 363 ms by bot id=7603285135
+2026-04-14 18:01:23,356 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-14 18:01:23,358 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 18:01:23,358 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-14 18:01:23,359 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-14 18:01:23,359 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-14 18:01:23,359 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-14 18:01:23,359 - aiogram.dispatcher - INFO - Start polling
+2026-04-14 18:01:23,642 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-14 18:04:41,545 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=787381566864-k7vkpnh4db2qqh9csil4k3cjg15tncks.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A58932%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file&state=H3QbbtJ5xGrdxUvderRWC2L1eqPWI9&code_challenge=kHI8MJ-xoupwo84Q4pFoZMtnelDA-7dipCGiJ84WUnc&code_challenge_method=S256&access_type=offline
+2026-04-16 05:28:20,350 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:28:20,411 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:28:20,411 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:28:20,414 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:28:20,414 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:28:20,414 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:28:20,414 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:28:20,741 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:28:21,148 - aiogram.event - INFO - Update id=127962054 is not handled. Duration 308 ms by bot id=7603285135
+2026-04-16 05:28:21,148 - aiogram.event - ERROR - Cause exception while process update id=127962054 by bot id=7603285135
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\handlers.py", line 1231, in show_all_events
+    await callback.answer()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\bot.py", line 498, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-04-16 05:28:21,329 - aiogram.event - INFO - Update id=127962055 is handled. Duration 487 ms by bot id=7603285135
+2026-04-16 05:28:29,404 - aiogram.event - INFO - Update id=127962056 is handled. Duration 215 ms by bot id=7603285135
+2026-04-16 05:30:35,419 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:30:35,461 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:30:35,461 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:30:35,462 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:30:35,462 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:30:35,462 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:30:35,463 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:30:35,697 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:30:36,164 - aiogram.event - INFO - Update id=127962057 is handled. Duration 372 ms by bot id=7603285135
+2026-04-16 05:30:42,381 - aiogram.event - INFO - Update id=127962058 is handled. Duration 342 ms by bot id=7603285135
+2026-04-16 05:33:22,967 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:33:23,014 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:33:23,014 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:33:23,015 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:33:23,015 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:33:23,015 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:33:23,015 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:33:23,266 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:33:31,215 - aiogram.event - INFO - Update id=127962059 is handled. Duration 440 ms by bot id=7603285135
+2026-04-16 05:33:33,266 - aiogram.event - INFO - Update id=127962060 is handled. Duration 222 ms by bot id=7603285135
+2026-04-16 05:34:45,804 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:34:45,848 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:34:45,848 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:34:45,849 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:34:45,849 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:34:45,849 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:34:45,849 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:34:46,159 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:34:46,638 - aiogram.event - INFO - Update id=127962061 is handled. Duration 365 ms by bot id=7603285135
+2026-04-16 05:34:56,993 - aiogram.event - INFO - Update id=127962062 is handled. Duration 171 ms by bot id=7603285135
+2026-04-16 05:35:13,419 - aiogram.event - INFO - Update id=127962063 is handled. Duration 318 ms by bot id=7603285135
+2026-04-16 05:36:30,853 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:36:30,897 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:36:30,897 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:36:30,898 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:36:30,898 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:36:30,898 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:36:30,898 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:36:31,172 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:36:31,724 - aiogram.event - INFO - Update id=127962064 is handled. Duration 419 ms by bot id=7603285135
+2026-04-16 05:38:42,217 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:38:42,260 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:38:42,260 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:38:42,261 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:38:42,261 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:38:42,261 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:38:42,262 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:38:42,513 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:38:42,977 - aiogram.event - INFO - Update id=127962065 is handled. Duration 380 ms by bot id=7603285135
+2026-04-16 05:39:21,457 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:39:21,499 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:39:21,500 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:39:21,501 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:39:21,501 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:39:21,501 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:39:21,501 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:39:21,876 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:39:22,345 - aiogram.event - INFO - Update id=127962066 is handled. Duration 367 ms by bot id=7603285135
+2026-04-16 05:39:28,687 - aiogram.event - INFO - Update id=127962067 is handled. Duration 260 ms by bot id=7603285135
+2026-04-16 05:39:46,468 - aiogram.event - INFO - Update id=127962068 is handled. Duration 431 ms by bot id=7603285135
+2026-04-16 05:39:49,892 - aiogram.event - INFO - Update id=127962069 is handled. Duration 197 ms by bot id=7603285135
+2026-04-16 05:39:54,590 - aiogram.event - INFO - Update id=127962070 is handled. Duration 240 ms by bot id=7603285135
+2026-04-16 05:56:49,687 - root - INFO - Starting Telegram Reminder Bot...
+2026-04-16 05:56:49,731 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:56:49,732 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-04-16 05:56:49,732 - apscheduler.scheduler - INFO - Added job "send_daily_events" to job store "default"
+2026-04-16 05:56:49,733 - apscheduler.scheduler - INFO - Added job "send_reminder_notifications" to job store "default"
+2026-04-16 05:56:49,733 - apscheduler.scheduler - INFO - Scheduler started
+2026-04-16 05:56:49,733 - aiogram.dispatcher - INFO - Start polling
+2026-04-16 05:56:49,990 - aiogram.dispatcher - INFO - Run polling for bot @Testing_Proj_Bot id=7603285135 - 'TestoBot'
+2026-04-16 05:56:50,419 - aiogram.event - INFO - Update id=127962079 is not handled. Duration 284 ms by bot id=7603285135
+2026-04-16 05:56:50,419 - aiogram.event - ERROR - Cause exception while process update id=127962079 by bot id=7603285135
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Roman\Python\PycharmProjects\Ready_Projects\My\PycharmProjects\TeleBot_aiogram_testing_bot Ц 3_test\app\handlers.py", line 1228, in show_monthly_digest
+    await callback.answer("\U0001f4ca ‘ормую дайджест...")
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\bot.py", line 498, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-04-16 05:56:50,718 - aiogram.event - INFO - Update id=127962078 is handled. Duration 647 ms by bot id=7603285135
+2026-04-16 05:56:57,574 - aiogram.event - INFO - Update id=127962080 is handled. Duration 239 ms by bot id=7603285135
+2026-04-16 05:57:26,001 - aiogram.event - INFO - Update id=127962081 is handled. Duration 475 ms by bot id=7603285135

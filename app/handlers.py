@@ -1072,7 +1072,10 @@ async def show_today_events(callback: CallbackQuery):
 
     if events:
         events_text = "\n\n".join(
-            [f"{get_category_emoji(e[5])} #{e[4]}\n{e[3]}\n{e[2]}" for e in events]
+            [
+                f"{get_category_emoji(e[5])} #{e[4]}\n{e[1]}\n{e[2]}\n{e[3]}"
+                for e in events
+            ]
         )
         await callback.message.answer(
             f"📆 *{period_name}:*\n\n{events_text}",
@@ -1094,20 +1097,11 @@ async def show_tomorrow_events(callback: CallbackQuery):
 
     if events:
         events_text = "\n\n".join(
-            [f"{get_category_emoji(e[5])} #{e[4]}\n{e[3]}\n{e[2]}" for e in events]
+            [
+                f"{get_category_emoji(e[5])} #{e[4]}\n{e[1]}\n{e[2]}\n{e[3]}"
+                for e in events
+            ]
         )
-        await callback.message.answer(
-            f"📅 *{period_name}:*\n\n{events_text}",
-            parse_mode="Markdown",
-            reply_markup=kb.main_inline_kb,
-        )
-    else:
-        await callback.message.answer(
-            f"📅 {period_name}\n\nПодії відсутні ✅", reply_markup=kb.main_inline_kb
-        )
-
-    if events:
-        events_text = "\n\n".join([f"#{e[4]}\n{e[3]}\n{e[2]}" for e in events])
         await callback.message.answer(
             f"📅 *{period_name}:*\n\n{events_text}",
             parse_mode="Markdown",
@@ -1128,7 +1122,10 @@ async def show_this_month_events(callback: CallbackQuery):
 
     if events:
         events_text = "\n\n".join(
-            [f"{get_category_emoji(e[5])} #{e[4]}\n{e[3]}\n{e[2]}" for e in events]
+            [
+                f"{get_category_emoji(e[5])} #{e[4]}\n{e[1]}\n{e[2]}\n{e[3]}"
+                for e in events
+            ]
         )
         await callback.message.answer(
             f"📅 *{period_name}:*\n\n{events_text}",
@@ -1150,28 +1147,11 @@ async def show_next_month_events(callback: CallbackQuery):
 
     if events:
         events_text = "\n\n".join(
-            [f"{get_category_emoji(e[5])} #{e[4]}\n{e[3]}\n{e[2]}" for e in events]
+            [
+                f"{get_category_emoji(e[5])} #{e[4]}\n{e[1]}\n{e[2]}\n{e[3]}"
+                for e in events
+            ]
         )
-        await callback.message.answer(
-            f"📅 *{period_name}:*\n\n{events_text}",
-            parse_mode="Markdown",
-            reply_markup=kb.main_inline_kb,
-        )
-    else:
-        await callback.message.answer(
-            f"📅 {period_name}\n\nПодії відсутні ✅", reply_markup=kb.main_inline_kb
-        )
-
-
-@router.callback_query(F.data == "next_month")
-async def show_next_month_events(callback: CallbackQuery):
-    await callback.message.delete()
-    events, period_name = await db.get_events_for_period(
-        callback.from_user.id, "next_month"
-    )
-
-    if events:
-        events_text = "\n\n".join([f"#{e[4]}\n{e[3]}\n{e[2]}" for e in events])
         await callback.message.answer(
             f"📅 *{period_name}:*\n\n{events_text}",
             parse_mode="Markdown",
