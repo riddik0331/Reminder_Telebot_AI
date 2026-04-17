@@ -49,6 +49,26 @@ main_inline_kb = InlineKeyboardMarkup(
                 text="📊 Дайджест місяця", callback_data="monthly_digest"
             )
         ],
+        [
+            InlineKeyboardButton(text="📥 Експорт", callback_data="export_menu"),
+        ],
+    ]
+)
+
+# Export menu keyboard
+export_inline_kb = InlineKeyboardMarkup(
+    inline_keyboard=[
+        [
+            InlineKeyboardButton(text="📄 JSON", callback_data="export_json"),
+            InlineKeyboardButton(text="📊 CSV", callback_data="export_csv"),
+        ],
+        [
+            InlineKeyboardButton(text="📅 iCal", callback_data="export_ical"),
+            InlineKeyboardButton(text="📝 TXT", callback_data="export_txt"),
+        ],
+        [
+            InlineKeyboardButton(text="⬅️ Назад", callback_data="back_to_main"),
+        ],
     ]
 )
 

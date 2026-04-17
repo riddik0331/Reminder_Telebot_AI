@@ -1487,3 +1487,149 @@ async def paginate_events(callback: CallbackQuery):
 
     await callback.message.edit_text(text, parse_mode="Markdown", reply_markup=keyboard)
     await callback.answer()
+
+
+# ==================== EXPORT CALLBACK HANDLERS ====================
+
+
+@router.callback_query(F.data == "export_menu")
+async def show_export_menu(callback: CallbackQuery):
+    """Show export format selection menu."""
+    await callback.message.edit_text(
+        "📥 *Оберіть формат експорту:*\n\n"
+        "📄 **JSON** - для програм та API\n"
+        "📊 **CSV** - для Excel, Google Sheets\n"
+        "📅 **iCal** - для календарів\n"
+        "📝 **TXT** - простий текст",
+        parse_mode="Markdown",
+        reply_markup=kb.export_inline_kb,
+    )
+
+
+@router.callback_query(F.data == "back_to_main")
+async def back_to_main(callback: CallbackQuery):
+    """Return to main menu."""
+    await callback.message.edit_text(
+        "🏠 *Головне меню*\n\nОберіть дію:",
+        parse_mode="Markdown",
+        reply_markup=kb.main_inline_kb,
+    )
+
+
+@router.callback_query(F.data == "export_json")
+async def export_json_callback(callback: CallbackQuery):
+    """Export events to JSON via callback."""
+    try:
+        user_id = callback.from_user.id
+        await callback.answer("⏳ Формую JSON...")
+
+        file_path = await export_to_json(user_id)
+        document = FSInputFile(file_path)
+        await callback.message.edit_text("📄 *JSON експорт*", parse_mode="Markdown")
+        await callback.message.answer_document(
+            document, caption="✅ JSON файл готовий!"
+        )
+        await callback.message.answer(
+            "🏠 Оберіть дію:",
+            reply_markup=kb.main_inline_kb,
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await callback.message.edit_text(
+            f"❌ Помилка: {e}",
+            reply_markup=kb.export_inline_kb,
+        )
+
+
+@router.callback_query(F.data == "export_csv")
+async def export_csv_callback(callback: CallbackQuery):
+    """Export events to CSV via callback."""
+    try:
+        user_id = callback.from_user.id
+        await callback.answer("⏳ Формую CSV...")
+
+        file_path = await export_to_csv(user_id)
+        document = FSInputFile(file_path)
+        await callback.message.edit_text("📊 *CSV експорт*", parse_mode="Markdown")
+        await callback.message.answer_document(
+            document, caption="✅ CSV файл готовий! Відкривається в Excel."
+        )
+        await callback.message.answer(
+            "🏠 Оберіть дію:",
+            reply_markup=kb.main_inline_kb,
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await callback.message.edit_text(
+            f"❌ Помилка: {e}",
+            reply_markup=kb.export_inline_kb,
+        )
+
+
+@router.callback_query(F.data == "export_ical")
+async def export_ical_callback(callback: CallbackQuery):
+    """Export events to iCal via callback."""
+    try:
+        user_id = callback.from_user.id
+        await callback.answer("⏳ Формую iCal...")
+
+        file_path = await export_to_ical(user_id)
+        document = FSInputFile(file_path)
+        await callback.message.edit_text("📅 *iCal експорт*", parse_mode="Markdown")
+        await callback.message.answer_document(
+            document,
+            caption="✅ iCal файл готовий! Для Google Calendar, Apple Calendar.",
+        )
+        await callback.message.answer(
+            "🏠 Оберіть дію:",
+            reply_markup=kb.main_inline_kb,
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await callback.message.edit_text(
+            f"❌ Помилка: {e}",
+            reply_markup=kb.export_inline_kb,
+        )
+
+
+@router.callback_query(F.data == "export_txt")
+async def export_txt_callback(callback: CallbackQuery):
+    """Export events to TXT via callback."""
+    try:
+        user_id = callback.from_user.id
+        await callback.answer("⏳ Формую TXT...")
+
+        file_path = await export_to_txt(user_id)
+        document = FSInputFile(file_path)
+        await callback.message.edit_text("📝 *TXT експорт*", parse_mode="Markdown")
+        await callback.message.answer_document(document, caption="✅ TXT файл готовий!")
+        await callback.message.answer(
+            "🏠 Оберіть дію:",
+            reply_markup=kb.main_inline_kb,
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await callback.message.edit_text(
+            f"❌ Помилка: {e}",
+            reply_markup=kb.export_inline_kb,
+        )
