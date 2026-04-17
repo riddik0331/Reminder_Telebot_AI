@@ -165,8 +165,11 @@ if __name__ == "__main__":
     logging.info("Starting Telegram Reminder Bot...")
 
     try:
-        # Windows fix: use selector event loop
-        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+        # Windows fix: use selector event loop only on Windows
+        import platform
+
+        if platform.system() == "Windows":
+            asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
         asyncio.run(main())
     except KeyboardInterrupt:
         logging.info("Bot stopped by user")
