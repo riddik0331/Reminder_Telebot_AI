@@ -1,0 +1,30 @@
+ssh -i keys/ssh-key-2026-04-16.key ubuntu@141.147.87.146
+
+
+screen -r bot
+
+
+Варіант 2: screen (краще)
+# Встановити screen
+sudo apt install screen -y
+
+# Створити сесію
+screen -S bot
+
+# Запустити бота
+python3 run.py
+
+# Ctrl+A, D - вийти з сесії (бот продовжить роботу)
+
+# Повернутись:
+screen -r bot
+
+
+
+Корисні команди screen:
+Команда	Опис
+screen -S bot	Створити сесію
+Ctrl+A, D	Вийти з сесії
+screen -r bot	Повернутись
+screen -ls	Список сесій
+exit	Завершити сесію (і бота)

@@ -576,12 +576,11 @@ async def get_events_by_category_for_month(user_id: int, year: int, month: int) 
                 SELECT event_date, event_name, local_id, category
                 FROM events
                 WHERE user_id = ? 
-                    AND STRFTIME('%Y', event_date) = ?
                     AND STRFTIME('%m', event_date) = ?
                     AND is_active = 1
                 ORDER BY event_date
                 """,
-                (user_id, str(year), month_str),
+                (user_id, month_str),
             )
 
             events = cur.fetchall()
