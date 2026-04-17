@@ -154,13 +154,27 @@ async def main():
 
 
 if __name__ == "__main__":
-    # Configure logging
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-        filename=BASE_DIR / "bot.log",
-        filemode="a",
+    # Configure logging - both to file AND console
+    root_logger = logging.getLogger()
+    root_logger.setLevel(logging.INFO)
+
+    # Console handler (для screen)
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+    console_handler.setFormatter(
+        logging.Formatter(
+            "📋 %(asctime)s | %(levelname)s | %(message)s", datefmt="%H:%M:%S"
+        )
     )
+    root_logger.addHandler(console_handler)
+
+    # File handler
+    file_handler = logging.FileHandler(BASE_DIR / "bot.log", mode="a", encoding="utf-8")
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(
+        logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+    )
+    root_logger.addHandler(file_handler)
 
     logging.info("Starting Telegram Reminder Bot...")
 

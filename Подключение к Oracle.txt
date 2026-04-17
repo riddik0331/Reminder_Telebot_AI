@@ -28,3 +28,40 @@ Ctrl+A, D	Вийти з сесії
 screen -r bot	Повернутись
 screen -ls	Список сесій
 exit	Завершити сесію (і бота)
+
+
+Так! Screen підтримує багато сесій!
+Основні команди:
+# Створити нову сесію
+screen -S bot2
+# Створити ще одну
+screen -S parser
+screen -S backup
+# Вийти з сесії (біт в фоні)
+Ctrl+A, D
+# Список всіх сесій
+screen -ls
+# Повернутись до сесії
+screen -r bot
+screen -r parser
+# Завершити сесію
+exit
+---
+Приклад:
+# Сесія 1 - бот
+screen -S bot
+python3 run.py
+# Ctrl+A, D - вийти
+# Сесія 2 - інший скрипт
+screen -S parser
+python3 parser.py
+# Ctrl+A, D - вийти
+# Сесія 3 - моніторинг
+screen -S monitor
+htop
+# Ctrl+A, D - вийти
+---
+Перемикання між сесіями:
+screen -ls       # подивитись всі
+screen -r bot     # повернутись до бота
+screen -r parser  # повернутись до парсера
