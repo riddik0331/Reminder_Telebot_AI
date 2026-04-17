@@ -22,6 +22,18 @@ __pycache__/
 # Generated data files
 users_data.xlsx
 
+# Database
+*.sql
+
+# Logs
+*.log
+bot.log
+
+# SSH keys
+*.key
+*.pem
+keys/
+
 # OS files
 .DS_Store
 Thumbs.db
