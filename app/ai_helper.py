@@ -533,7 +533,7 @@ ai = GroqAI()
 async def parse_date_fallback(date_str: str) -> Optional[str]:
     """
     Fallback date parser without AI.
-    Supports: YYYY-MM-DD, DD.MM.YYYY, DD/MM/YYYY
+    Supports: YYYY-MM-DD, DD.MM.YYYY, DD/MM/YYYY, "завтра презентация", etc.
     """
     formats = [
         "%Y-%m-%d",
@@ -546,11 +546,20 @@ async def parse_date_fallback(date_str: str) -> Optional[str]:
     date_str_lower = date_str.lower().strip()
     today = datetime.now(TIMEZONE).date()
 
+    # Check exact match
     if date_str_lower in ["сегодня", "today"]:
         return today.strftime("%Y-%m-%d")
     elif date_str_lower in ["завтра", "tomorrow"]:
         return (today + timedelta(days=1)).strftime("%Y-%m-%d")
     elif date_str_lower in ["послезавтра"]:
+        return (today + timedelta(days=2)).strftime("%Y-%m-%d")
+
+    # Check if STARTS with keyword (e.g., "завтра презентация")
+    if date_str_lower.startswith("завтра"):
+        return (today + timedelta(days=1)).strftime("%Y-%m-%d")
+    elif date_str_lower.startswith("сегодня"):
+        return today.strftime("%Y-%m-%d")
+    elif date_str_lower.startswith("послезавтра"):
         return (today + timedelta(days=2)).strftime("%Y-%m-%d")
 
     # Try to extract number for "через N дней"
