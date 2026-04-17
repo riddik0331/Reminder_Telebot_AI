@@ -77,6 +77,14 @@ admin_panel_kb = ReplyKeyboardMarkup(
             KeyboardButton(text="📊 Статистика"),
             KeyboardButton(text="📤 Експорт в Excel"),
         ],
+        [
+            KeyboardButton(text="📄 Експорт JSON"),
+            KeyboardButton(text="📊 Експорт CSV"),
+        ],
+        [
+            KeyboardButton(text="📅 Експорт iCal"),
+            KeyboardButton(text="📝 Експорт TXT"),
+        ],
         [KeyboardButton(text="🚪 Вийти")],
     ],
     resize_keyboard=True,

@@ -10,10 +10,15 @@ from aiogram.types import (
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
 from aiogram.exceptions import TelegramBadRequest
+from pathlib import Path
 import re
+import logging
 
 import app.keyboards as kb
 import app.database as db
+
+# Base directory
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Creating router object
 router = Router()
@@ -375,6 +380,224 @@ async def get_users_list(message: Message):
         )
     except Exception as e:
         await message.answer(f"Помилка: {e}")
+
+
+# ==================== EXPORT HANDLERS ====================
+
+
+import json
+from datetime import datetime
+from config import TIMEZONE
+
+
+async def export_to_json(user_id: int) -> str:
+    """Export user events to JSON format."""
+    events = await db.get_events(user_id)
+
+    export_data = {
+        "user_id": user_id,
+        "export_date": datetime.now(TIMEZONE).strftime("%Y-%m-%d %H:%M:%S"),
+        "total_events": len(events),
+        "events": [],
+    }
+
+    for e in events:
+        export_data["events"].append(
+            {
+                "id": e[0],
+                "date": e[1],
+                "name": e[2],
+                "category": e[4] if len(e) > 4 else "other",
+                "local_id": e[5] if len(e) > 5 else 0,
+            }
+        )
+
+    file_path = BASE_DIR / f"export_{user_id}.json"
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(export_data, f, ensure_ascii=False, indent=2)
+
+    return str(file_path)
+
+
+async def export_to_csv(user_id: int) -> str:
+    """Export user events to CSV format."""
+    events = await db.get_events(user_id)
+
+    file_path = BASE_DIR / f"export_{user_id}.csv"
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write("ID,Дата,Назва,Kategoriя,Нагадування (дні)\n")
+        for e in events:
+            local_id = e[5] if len(e) > 5 else e[0]
+            name = e[2].replace('"', '""')
+            f.write(
+                f'{local_id},{e[1]},"{name}",{e[4] if len(e) > 4 else "other"},"{e[3] if len(e) > 3 else "1,3,7"}"\n'
+            )
+
+    return str(file_path)
+
+
+async def export_to_ical(user_id: int) -> str:
+    """Export user events to iCal format."""
+    events = await db.get_events(user_id)
+
+    file_path = BASE_DIR / f"export_{user_id}.ics"
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write("BEGIN:VCALENDAR\n")
+        f.write("VERSION:2.0\n")
+        f.write("PRODID:-//Reminder Bot//UA//\n")
+
+        for e in events:
+            event_date = e[1].replace("-", "")
+            f.write("BEGIN:VEVENT\n")
+            f.write(f"DTSTART:{event_date}\n")
+            f.write(f"DTEND:{event_date}\n")
+            f.write(f"SUMMARY:{e[2]}\n")
+            f.write(f"DESCRIPTION:Kategoriя: {e[4] if len(e) > 4 else 'other'}\n")
+            f.write(f"UID:{e[0]}@reminder-bot\n")
+            f.write("END:VEVENT\n")
+
+        f.write("END:VCALENDAR\n")
+
+    return str(file_path)
+
+
+async def export_to_txt(user_id: int) -> str:
+    """Export user events to plain text format."""
+    events = await db.get_events(user_id)
+    today = datetime.now(TIMEZONE).strftime("%d.%m.%Y")
+
+    file_path = BASE_DIR / f"export_{user_id}.txt"
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(f"═══════════════════════════════════════════\n")
+        f.write(f"   ЕКСПОРТ ПОДІЙ\n")
+        f.write(f"   Дата експорту: {today}\n")
+        f.write(f"═══════════════════════════════════════════\n\n")
+
+        if not events:
+            f.write("   Події відсутні\n")
+        else:
+            # Group by category
+            categories = {}
+            for e in events:
+                cat = e[4] if len(e) > 4 else "other"
+                if cat not in categories:
+                    categories[cat] = []
+                categories[cat].append(e)
+
+            for cat, cat_events in categories.items():
+                emoji = (
+                    kb.get_category_emoji(cat)
+                    if hasattr(kb, "get_category_emoji")
+                    else "📅"
+                )
+                f.write(f"\n{emoji} {cat.upper()} ({len(cat_events)}):\n")
+                f.write("-" * 45 + "\n")
+
+                for e in cat_events:
+                    local_id = e[5] if len(e) > 5 else e[0]
+                    f.write(f"  #{local_id}. {e[1]} - {e[2]}\n")
+
+        f.write(f"\n═══════════════════════════════════════════\n")
+        f.write(f"   Всього: {len(events)} подій\n")
+        f.write(f"═══════════════════════════════════════════\n")
+
+    return str(file_path)
+
+
+@router.message(F.text == "📄 Експорт JSON")
+async def export_json(message: Message):
+    try:
+        user_id = message.from_user.id
+        await message.answer("⏳ Формую JSON файл...")
+
+        file_path = await export_to_json(user_id)
+        document = FSInputFile(file_path)
+        await message.answer_document(
+            document,
+            caption="📄 *JSON експорт*\n\nФайл готовий для імпорту в інші системи.",
+            parse_mode="Markdown",
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await message.answer(f"❌ Помилка експорту: {e}")
+        logging.error(f"JSON export error: {e}")
+
+
+@router.message(F.text == "📊 Експорт CSV")
+async def export_csv(message: Message):
+    try:
+        user_id = message.from_user.id
+        await message.answer("⏳ Формую CSV файл...")
+
+        file_path = await export_to_csv(user_id)
+        document = FSInputFile(file_path)
+        await message.answer_document(
+            document,
+            caption="📊 *CSV експорт*\n\nВідкривається в Excel та Google Sheets.",
+            parse_mode="Markdown",
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await message.answer(f"❌ Помилка експорту: {e}")
+        logging.error(f"CSV export error: {e}")
+
+
+@router.message(F.text == "📅 Експорт iCal")
+async def export_ical(message: Message):
+    try:
+        user_id = message.from_user.id
+        await message.answer("⏳ Формую iCal файл...")
+
+        file_path = await export_to_ical(user_id)
+        document = FSInputFile(file_path)
+        await message.answer_document(
+            document,
+            caption="📅 *iCal експорт*\n\nДля імпорту в Google Calendar, Apple Calendar.",
+            parse_mode="Markdown",
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await message.answer(f"❌ Помилка експорту: {e}")
+        logging.error(f"iCal export error: {e}")
+
+
+@router.message(F.text == "📝 Експорт TXT")
+async def export_txt(message: Message):
+    try:
+        user_id = message.from_user.id
+        await message.answer("⏳ Формую TXT файл...")
+
+        file_path = await export_to_txt(user_id)
+        document = FSInputFile(file_path)
+        await message.answer_document(
+            document,
+            caption="📝 *TXT експорт*\n\nПростий текстовий формат.",
+            parse_mode="Markdown",
+        )
+
+        # Cleanup
+        import os
+
+        os.remove(file_path)
+
+    except Exception as e:
+        await message.answer(f"❌ Помилка експорту: {e}")
+        logging.error(f"TXT export error: {e}")
 
 
 @router.message(F.text == "🚪 Вийти")
