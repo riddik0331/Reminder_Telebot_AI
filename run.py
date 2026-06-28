@@ -2,8 +2,16 @@
 
 import asyncio
 import logging
+import sys
+import os
 from pathlib import Path
 from datetime import datetime, timedelta
+from aiohttp import web
+
+# Ensure project root is in Python path (for containerized deploys like JustRunMy)
+_project_root = Path(__file__).resolve().parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
 
 from aiogram import Bot, Dispatcher
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
@@ -128,6 +136,26 @@ async def send_reminder_notifications(bot: Bot):
             logging.error(f"Error sending reminder to user {user_id}: {e}")
 
 
+async def health_check(request: web.Request) -> web.Response:
+    """Health check endpoint to keep the service alive on Render free tier."""
+    return web.Response(text="OK", status=200)
+
+
+async def run_health_server():
+    """Run a lightweight HTTP server for health checks (Render Web Service)."""
+    port = int(os.environ.get("PORT", 8080))
+    app = web.Application()
+    app.router.add_get("/", health_check)
+    app.router.add_get("/health", health_check)
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, "0.0.0.0", port)
+    await site.start()
+    logging.info(f"Health check server started on port {port}")
+    # Keep the server running forever
+    await asyncio.Event().wait()
+
+
 async def main():
     """Main function to start the bot."""
     # Daily events at 9:00 AM
@@ -149,8 +177,11 @@ async def main():
     # Start scheduler
     scheduler.start()
 
-    # Start polling
-    await dp.start_polling(bot)
+    # Run both polling and health server concurrently
+    await asyncio.gather(
+        dp.start_polling(bot),
+        run_health_server(),
+    )
 
 
 if __name__ == "__main__":
